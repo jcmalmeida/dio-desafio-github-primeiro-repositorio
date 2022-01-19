@@ -1,7 +1,9 @@
 # Anotações - Introdução ao Git e ao GitHub - DIO
+
 Essas são anotações realizadas durante o curso “Introdução ao Git e ao GitHub” oferecido pela [DIO](https://dio.me/sign-up?ref=ZFBACACJMY) e faz parte de um dos desafios de projeto da plataforma de ensino de programação.
 
 ### 1. Introdução ao Git e sua importância
+
 O Git foi criado em 2005 e é **um sistema de versionamento de código distribuído** criado por Linus Torvalds. O Git surgiu da necessidade de versionamento dos códigos do kernel do Linux e da insatisfação do Linus com as opções de sistemas de versionamento existentes naquele momento.
 O GitHub é um serviço mantido atualmente pela Microsoft e que implementa o Git, mas existem outros semelhantes (como BitBucket e GitLab), portanto Git e GitHub não devem ser confundidos como sendo a mesma coisa.
 Os **beneficios** de se aprender sobre o Git e GitHub:
